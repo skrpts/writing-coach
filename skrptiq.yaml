@@ -1,0 +1,39 @@
+# --- Identity ---
+name: "writing-coach"
+display_name: "Writing Coach"
+description: "Analyses your writing against your voice profile — flags tone drift, hedging, formality mismatches, and sentence patterns that don't match your style"
+version: "1.0.0"
+engine: ">=1.0.0"
+
+# --- Attribution ---
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+
+licence: "MIT"
+
+# --- Discovery (Hub) ---
+category: "writing"
+tags:
+  - "writing"
+  - "voice"
+  - "style"
+  - "coaching"
+
+# --- Security & Access ---
+requires:
+  services:
+    - "llm-service"
+  permissions: []
+  data_handling: []
+
+# --- Contents ---
+contents:
+  skills: 3
+  prompts: 3
+  workflows: 1
+  services: 1
+  sources: 0
+  documents: 0
+  assets: 0
+  total: 8
