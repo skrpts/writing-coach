@@ -2,8 +2,8 @@
 name: "writing-coach"
 display_name: "Writing Coach"
 description: "Analyses your writing against your voice profile — flags tone drift, hedging, formality mismatches, and sentence patterns that don't match your style"
-version: "1.0.0"
-engine: ">=1.0.0"
+version: "1.0.1"
+engine: ">=0.1.0"
 
 # --- Attribution ---
 author:
