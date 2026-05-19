@@ -3,7 +3,7 @@ id: "383d7a87-93a6-48c0-a78f-e8c841bd7ece"
 name: "writing-coach"
 display_name: "Writing Coach"
 description: "Analyses your writing against your voice profile — flags tone drift, hedging, formality mismatches, and sentence patterns that don't match your style"
-version: "1.0.4"
+version: "1.0.5"
 engine: ">=0.1.0"
 
 # --- Attribution ---
