@@ -1,5 +1,8 @@
 # Release Notes
 
+## v1.0.10
+Wave 2: re-signed with canonical engine signing pipeline.
+
 ## v1.0.9
 Wave 2 migration: canonical engine signing pipeline (CLI v0.0.14).
 
