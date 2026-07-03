@@ -3,7 +3,7 @@ id: "383d7a87-93a6-48c0-a78f-e8c841bd7ece"
 name: "writing-coach"
 display_name: "Writing Coach"
 description: "Analyses your writing against your voice profile — flags tone drift, hedging, formality mismatches, and sentence patterns that don't match your style"
-version: "1.0.11"
+version: "1.0.12"
 engine: ">=0.1.0"
 
 # --- Attribution ---
@@ -44,3 +44,17 @@ contents:
   documents: 0
   assets: 0
   total: 7
+
+security:
+  status: "pass"
+  scanned_at: "2026-07-03T11:14:14.980Z"
+  scanner_version: "3.3.0"
+  syntactic: "pass"
+  structural: "pass"
+  detected:
+    services: ["llm-service"]
+    permissions: []
+    data_handling: []
+  undeclared: []
+  warnings: []
+  report_url: "https://hub.skrptiq.ai/skrpts/writing-coach/security"

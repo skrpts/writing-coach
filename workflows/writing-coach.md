@@ -26,14 +26,17 @@ execution:
   - skill: "voice-profile-analysis"
     prompt: "analyse-voice-profile"
     step_type: "analysis"
+    output: { name: "voice_profile", type: "text" }
   - skill: "text-style-review"
     prompt: "review-text-style"
     step_type: "review"
+    output: { name: "style_review", type: "text" }
     context:
       voice_analysis: "{{steps.Voice Profile Analysis.output}}"
   - skill: "feedback-synthesis"
     prompt: "synthesise-feedback"
     step_type: "synthesis"
+    output: { name: "feedback", type: "text" }
     context:
       style_review: "{{steps.Text Style Review.output}}"
       voice_analysis: "{{steps.Voice Profile Analysis.output}}"

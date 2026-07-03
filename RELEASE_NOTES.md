@@ -1,5 +1,8 @@
 # Release Notes
 
+## v1.0.12
+GH#745 — declare per-step `output: {name, type}` on every execution step (voice_profile/text, style_review/text, feedback/text). Lights up the #744 rich flow-map. Content-only; no bindings or logic changes.
+
 ## v1.0.11
 GH#645 Row 3b — migrate to K-037 dep-referenced schema. Strip 1 inline shared-content file and declare 1 hub-shared dep (UUID id + slug name + version + checksum from `gen-dep-checksums.mjs`). Closes pre-Step-3 inline-vendoring for this bundle.
 
