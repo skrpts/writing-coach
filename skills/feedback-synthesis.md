@@ -14,7 +14,7 @@ metadata:
 
 ## Capability
 
-Takes the passage-level style review and transforms it into coaching feedback the user can act on. For each finding, provides a specific suggestion — not "make this less formal" but "replace 'utilise' with 'use' to match your typical vocabulary".
+Takes the passage-level style review and transforms it into coaching feedback the user can act on. For each finding, provides a specific suggestion — not "make this less formal" but "replace 'utilize' with 'use' to match your typical vocabulary".
 
 ## Feedback Components
 

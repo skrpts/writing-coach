@@ -2,7 +2,7 @@
 type: workflow
 id: writing-coach
 title: Writing Coach
-description: "Analyses your writing against your voice profile — identifies tone drift, hedging, formality mismatches, and sentence patterns, then provides specific coaching feedback"
+description: "Analyzes your writing against your voice profile — identifies tone drift, hedging, formality mismatches, and sentence patterns, then provides specific coaching feedback"
 tags: [Production, Voice, Coaching]
 connections:
   - target: voice-profile-analysis
@@ -44,7 +44,7 @@ execution:
 
 ## Overview
 
-The Writing Coach analyses any text against your voice profile and tells you where it drifts from your established style. Not a grammar checker — a style consistency coach that knows YOUR writing and pushes you toward sounding like yourself.
+The Writing Coach analyzes any text against your voice profile and tells you where it drifts from your established style. Not a grammar checker — a style consistency coach that knows YOUR writing and pushes you toward sounding like yourself.
 
 ## Pipeline
 

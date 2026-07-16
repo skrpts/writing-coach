@@ -8,7 +8,7 @@ inputs:
   text_to_review:
     label: "Text to Review"
     description: "The text you want the coach to review against your voice profile"
-    example: "It might be argued that the implementation of microservices architecture could potentially offer several advantages to organisations seeking to modernise their technology infrastructure."
+    example: "It might be argued that the implementation of microservices architecture could potentially offer several advantages to organisations seeking to modernize their technology infrastructure."
     required: true
     type: longtext
   review_focus:
@@ -71,7 +71,7 @@ After all findings:
 
 ### Rules
 
-- If the review focus is specified, prioritise that dimension but still check others
+- If the review focus is specified, prioritize that dimension but still check others
 - Do not flag grammar, spelling, or factual errors — this is a style review only
 - Do not flag intentional style variation (e.g. a quote from someone else)
 - If the text matches the profile well, say so — do not manufacture findings

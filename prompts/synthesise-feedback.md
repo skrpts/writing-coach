@@ -1,7 +1,7 @@
 ---
 type: prompt
 id: synthesise-feedback
-title: Synthesise Feedback
+title: Synthesize Feedback
 description: "Converts style review findings into actionable coaching feedback with alternative phrasings and a style score"
 tags: [Production, Voice, Coaching]
 connections:

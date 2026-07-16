@@ -29,18 +29,18 @@ This is not a grammar checker or a readability scorer. It is a style consistency
 ### Sentence Pattern Mismatches
 
 - Sentences significantly longer or shorter than the profile's established range
-- Missing variety where the profile favours variation, or unexpected variation where the profile is uniform
+- Missing variety where the profile favors variation, or unexpected variation where the profile is uniform
 - Fragment usage (or absence) that contradicts the profile
 
 ### Hedging Detection
 
 - Hedging language ("it might be possible", "arguably", "one could say") in a voice that is typically direct
-- Overly assertive statements in a voice that favours measured qualification
+- Overly assertive statements in a voice that favors measured qualification
 - Modal verb usage that doesn't match the profile's confidence level
 
 ### Vocabulary Drift
 
-- Technical terms where the profile favours plain language (or vice versa)
+- Technical terms where the profile favors plain language (or vice versa)
 - Formal words replacing casual equivalents the profile prefers
 - Missing signature phrases or patterns the profile typically uses
 
@@ -48,7 +48,7 @@ This is not a grammar checker or a readability scorer. It is a style consistency
 
 - Paragraph lengths that don't match the profile's rhythm
 - Missing or unexpected transitions
-- List usage where the profile favours prose (or vice versa)
+- List usage where the profile favors prose (or vice versa)
 
 ## Output Format
 

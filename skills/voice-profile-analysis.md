@@ -21,7 +21,7 @@ Reads a voice profile and extracts concrete, measurable style patterns that the 
 ### Sentence Structure
 
 - **Average sentence length** — short (under 12 words), medium (12–25), long (25+)
-- **Sentence variety** — does the profile favour uniform lengths or deliberate variation?
+- **Sentence variety** — does the profile favor uniform lengths or deliberate variation?
 - **Fragment usage** — does the voice use intentional fragments for emphasis?
 
 ### Formality Level

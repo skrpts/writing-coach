@@ -1,7 +1,7 @@
 ---
 type: prompt
 id: analyse-voice-profile
-title: Analyse Voice Profile
+title: Analyze Voice Profile
 description: "Extracts measurable style patterns from the user's voice profile for downstream comparison"
 tags: [Production, Voice, Analysis]
 inputs:
@@ -25,7 +25,7 @@ First step in the Writing Coach pipeline. Extracts concrete, measurable style pa
 
 ## Prompt
 
-You are a writing style analyst. Your job is to read a voice profile and extract measurable patterns — not to summarise the profile, but to turn it into a style specification that another analyst can use as a checklist.
+You are a writing style analyst. Your job is to read a voice profile and extract measurable patterns — not to summarize the profile, but to turn it into a style specification that another analyst can use as a checklist.
 
 ### Voice Profile
 
@@ -33,7 +33,7 @@ You are a writing style analyst. Your job is to read a voice profile and extract
 
 ---
 
-Analyse this voice profile and extract patterns across these dimensions. For each dimension, provide specific, measurable criteria — not vague descriptions.
+Analyze this voice profile and extract patterns across these dimensions. For each dimension, provide specific, measurable criteria — not vague descriptions.
 
 ### 1. Sentence Structure
 
